@@ -4,4 +4,4 @@
 
 layout: default
 ---
-<h1>Hello My Blog</h1>
+Hello My Blog
